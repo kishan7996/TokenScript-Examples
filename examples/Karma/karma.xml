@@ -51,7 +51,7 @@
         <ts:token-card>
             <style type="text/css">&style;</style>
             <ts:view-iconified xml:lang="en">
-                &view-iconified.en;
+                &view.en;
             </ts:view-iconified>
             <ts:view xml:lang="en">
                 &view.en;
